@@ -1,0 +1,49 @@
+.modal__controller{   
+    width: 50%;
+    padding: 3.125rem;
+    height: fit-content;
+    border: transparent;
+    border-radius: .25rem;
+}
+
+.modal__profile{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: .9375rem;
+}
+
+.modal__info{
+    display: block;
+    flex-direction: column;
+    
+}
+
+.profile__modal--pic{
+    width: 3.75rem;
+    margin-right: .3125rem;
+}
+
+
+.modal__close{
+
+align-items:center;
+padding: 0rem;
+margin: .625rem;
+width: 2rem;
+height: 2rem;
+/* Grey Scale/grey-5 */
+
+background: #F8F9FA;
+border-radius: 9.375rem;
+position: absolute;
+top: 0%;
+right: 0%;
+}
+
+.modal__close:hover{
+    cursor: pointer;
+}
+
+.modal__controller::backdrop {
+    background-color: rgba(0, 0, 0, 0.664);
+  }

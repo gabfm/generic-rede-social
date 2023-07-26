@@ -1,1 +1,0 @@
-# generic-rede-social

@@ -1,0 +1,27 @@
+:root {
+    --bluetone-scale-1: #4263eb;
+    --bluetone-scale-2: #364fc7;
+    --grey-scale-0: #0A0c0d;
+    --grey-scale-1: #212529;
+    --grey-scale-2: #495057;
+    --grey-scale-3: #868e96;
+    --grey-scale-4: #dee2e6;
+    --grey-scale-5: #f8f9fa;
+    --grey-opacity-1: rgba(33,37,41,0.5);
+    --white-fixed: #FfFfFf;
+    --feedback-like: #d7443e;
+    --radius: .5rem;
+    --font-primary: "Inter", sans-serif;
+    --font-size-h1: 1.75rem;
+    --line-height-h1: 2.5rem;
+    --font-size-h2: 1.25rem;
+    --line-height-h2: 1.5rem;
+    --text-size-p1:1rem;
+    --line-height-p1:1.75rem;
+    --text-size-p2:0.875rem;
+    --line-height-p2:1rem;
+}
+
+
+
+
